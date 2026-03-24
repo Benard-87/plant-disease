@@ -1,0 +1,140 @@
+# Google Images Search URLs for Plant Diseases
+# Copy these URLs and open in browser to download images
+# Remember to filter by 'Labeled for reuse'
+
+
+# Anthracnose
+https://www.google.com/search?tbm=isch&q=anthracnose+plant+disease
+https://www.google.com/search?tbm=isch&q=anthracnose+leaf+spot
+
+# Apple___Black_rot
+https://www.google.com/search?tbm=isch&q=apple+black+rot+disease
+https://www.google.com/search?tbm=isch&q=apple+black+rot+symptoms
+
+# Apple___Cedar_apple_rust
+https://www.google.com/search?tbm=isch&q=apple+cedar+rust
+https://www.google.com/search?tbm=isch&q=cedar+apple+rust+disease
+
+# Corn___Common_rust
+https://www.google.com/search?tbm=isch&q=corn+rust+disease
+https://www.google.com/search?tbm=isch&q=corn+common+rust
+
+# Corn___Cercospora_leaf_spot
+https://www.google.com/search?tbm=isch&q=corn+cercospora
+https://www.google.com/search?tbm=isch&q=corn+gray+leaf+spot
+
+# Corn___Northern_Leaf_Blight
+https://www.google.com/search?tbm=isch&q=corn+northern+leaf+blight
+https://www.google.com/search?tbm=isch&q=corn+leaf+blight
+
+# Corn___healthy
+https://www.google.com/search?tbm=isch&q=healthy+corn+plant
+https://www.google.com/search?tbm=isch&q=healthy+corn+leaves
+
+# Grape___Black_rot
+https://www.google.com/search?tbm=isch&q=grape+black+rot+disease
+https://www.google.com/search?tbm=isch&q=grape+black+rot+symptoms
+
+# Grape___Esca
+https://www.google.com/search?tbm=isch&q=grape+esca+disease
+https://www.google.com/search?tbm=isch&q=grape+esca+symptoms
+
+# Grape___Leaf_blight
+https://www.google.com/search?tbm=isch&q=grape+leaf+blight
+https://www.google.com/search?tbm=isch&q=grape+leaf+disease
+
+# Grape___healthy
+https://www.google.com/search?tbm=isch&q=healthy+grape+plant
+https://www.google.com/search?tbm=isch&q=healthy+grape+leaves
+
+# Pepper_bell___Bacterial_spot
+https://www.google.com/search?tbm=isch&q=pepper+bacterial+spot
+https://www.google.com/search?tbm=isch&q=bell+pepper+disease
+
+# Pepper_bell___healthy
+https://www.google.com/search?tbm=isch&q=healthy+bell+pepper
+https://www.google.com/search?tbm=isch&q=healthy+pepper+plant
+
+# Cherry_Powdery_mildew
+https://www.google.com/search?tbm=isch&q=cherry+powdery+mildew
+https://www.google.com/search?tbm=isch&q=cherry+tree+disease
+
+# Cherry_healthy
+https://www.google.com/search?tbm=isch&q=healthy+cherry+tree
+https://www.google.com/search?tbm=isch&q=healthy+cherry+leaves
+
+# Strawberry___Leaf_scorch
+https://www.google.com/search?tbm=isch&q=strawberry+leaf+scorch
+https://www.google.com/search?tbm=isch&q=strawberry+disease
+
+# Strawberry___healthy
+https://www.google.com/search?tbm=isch&q=healthy+strawberry+plant
+https://www.google.com/search?tbm=isch&q=healthy+strawberry
+
+# Peach___Bacterial_spot
+https://www.google.com/search?tbm=isch&q=peach+bacterial+spot
+https://www.google.com/search?tbm=isch&q=peach+tree+disease
+
+# Peach___healthy
+https://www.google.com/search?tbm=isch&q=healthy+peach+tree
+https://www.google.com/search?tbm=isch&q=healthy+peach+leaves
+
+# Blueberry___healthy
+https://www.google.com/search?tbm=isch&q=healthy+blueberry+plant
+https://www.google.com/search?tbm=isch&q=healthy+blueberry
+
+# Orange___Haunglongbing
+https://www.google.com/search?tbm=isch&q=citrus+greening+disease
+https://www.google.com/search?tbm=isch&q=huanglongbing+citrus
+
+# Soybean___healthy
+https://www.google.com/search?tbm=isch&q=healthy+soybean+plant
+https://www.google.com/search?tbm=isch&q=healthy+soybean
+
+# Raspberry___healthy
+https://www.google.com/search?tbm=isch&q=healthy+raspberry+plant
+https://www.google.com/search?tbm=isch&q=healthy+raspberry
+
+# Squash___Powdery_mildew
+https://www.google.com/search?tbm=isch&q=squash+powdery+mildew
+https://www.google.com/search?tbm=isch&q=squash+disease
+
+# Squash___healthy
+https://www.google.com/search?tbm=isch&q=healthy+squash+plant
+https://www.google.com/search?tbm=isch&q=healthy+squash
+
+# Tomato___Bacterial_spot
+https://www.google.com/search?tbm=isch&q=tomato+bacterial+spot
+https://www.google.com/search?tbm=isch&q=tomato+bacterial+disease
+
+# Tomato___Late_blight
+https://www.google.com/search?tbm=isch&q=tomato+late+blight
+https://www.google.com/search?tbm=isch&q=tomato+blight+disease
+
+# Tomato___Leaf_Mold
+https://www.google.com/search?tbm=isch&q=tomato+leaf+mold
+https://www.google.com/search?tbm=isch&q=tomato+mold+disease
+
+# Tomato___Septoria_leaf_spot
+https://www.google.com/search?tbm=isch&q=tomato+septoria
+https://www.google.com/search?tbm=isch&q=septoria+leaf+spot
+
+# Tomato___Spider_mites
+https://www.google.com/search?tbm=isch&q=tomato+spider+mites
+https://www.google.com/search?tbm=isch&q=tomato+mite+damage
+
+# Tomato___Target_Spot
+https://www.google.com/search?tbm=isch&q=tomato+target+spot
+https://www.google.com/search?tbm=isch&q=target+spot+disease
+
+# Tomato___Tomato_mosaic_virus
+https://www.google.com/search?tbm=isch&q=tomato+mosaic+virus
+https://www.google.com/search?tbm=isch&q=tomato+virus+disease
+
+# Tomato___Tomato_Yellow_Leaf_Curl_Virus
+https://www.google.com/search?tbm=isch&q=tomato+yellow+leaf+curl
+https://www.google.com/search?tbm=isch&q=TYLCV+disease
+
+# Potato___Early_blight
+https://www.google.com/search?tbm=isch&q=potato+early+blight
+https://www.google.com/search?tbm=isch&q=potato+blight+disease

@@ -1,0 +1,15 @@
+# Virtual Environments
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Large Data, Models, and Uploads
+data/
+models/
+uploads/
+
+# OS generated files
+.DS_Store
